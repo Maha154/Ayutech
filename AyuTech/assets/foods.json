@@ -1,0 +1,209 @@
+[
+  {
+    "id": "f1",
+    "name": "Moong Dal",
+    "nutrients": { "kcal": 347, "protein": 24, "carbs": 62, "fat": 1.2, "fiber": 16 },
+    "doshaEffects": { "vata": -1, "pitta": -1, "kapha": 0 },
+    "season": [
+      { "ayurvedic": "Varsha Ritu", "english": "Monsoon" },
+      { "ayurvedic": "Sharad Ritu", "english": "Autumn" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f2",
+    "name": "Curd",
+    "nutrients": { "kcal": 60, "protein": 3.4, "carbs": 4.7, "fat": 3.3, "fiber": 0 },
+    "doshaEffects": { "vata": 0, "pitta": -1, "kapha": 1 },
+    "season": [
+      { "ayurvedic": "Grishma Ritu", "english": "Summer" },
+      { "ayurvedic": "Sharad Ritu", "english": "Autumn" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f3",
+    "name": "Rice",
+    "nutrients": { "kcal": 130, "protein": 2.7, "carbs": 28, "fat": 0.3, "fiber": 0.4 },
+    "doshaEffects": { "vata": -1, "pitta": 0, "kapha": 1 },
+    "season": [
+      { "ayurvedic": "Varsha Ritu", "english": "Monsoon" }
+    ],
+    "flags": { "diabetes_unfriendly": true, "high_sodium": false }
+  },
+  {
+    "id": "f4",
+    "name": "Ragi (Finger Millet)",
+    "nutrients": { "kcal": 328, "protein": 7.3, "carbs": 72, "fat": 1.3, "fiber": 11 },
+    "doshaEffects": { "vata": 0, "pitta": -1, "kapha": 1 },
+    "season": [
+      { "ayurvedic": "Hemanta Ritu", "english": "Pre-Winter" },
+      { "ayurvedic": "Shishira Ritu", "english": "Winter" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f5",
+    "name": "Wheat Chapati",
+    "nutrients": { "kcal": 120, "protein": 3.5, "carbs": 25, "fat": 0.4, "fiber": 2.5 },
+    "doshaEffects": { "vata": 0, "pitta": -1, "kapha": 1 },
+    "season": [
+      { "ayurvedic": "Varsha Ritu", "english": "Monsoon" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f6",
+    "name": "Spinach",
+    "nutrients": { "kcal": 23, "protein": 2.9, "carbs": 3.6, "fat": 0.4, "fiber": 2.2 },
+    "doshaEffects": { "vata": -1, "pitta": -1, "kapha": 0 },
+    "season": [
+      { "ayurvedic": "Vasanta Ritu", "english": "Spring" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false, "high_potassium": true }
+  },
+  {
+    "id": "f7",
+    "name": "Tomato",
+    "nutrients": { "kcal": 18, "protein": 0.9, "carbs": 3.9, "fat": 0.2, "fiber": 1.2 },
+    "doshaEffects": { "vata": 1, "pitta": 1, "kapha": -1 },
+    "season": [
+      { "ayurvedic": "Grishma Ritu", "english": "Summer" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f8",
+    "name": "Carrot",
+    "nutrients": { "kcal": 41, "protein": 0.9, "carbs": 10, "fat": 0.2, "fiber": 2.8 },
+    "doshaEffects": { "vata": -1, "pitta": 0, "kapha": 0 },
+    "season": [
+      { "ayurvedic": "Shishira Ritu", "english": "Winter" },
+      { "ayurvedic": "Vasanta Ritu", "english": "Spring" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f9",
+    "name": "Milk",
+    "nutrients": { "kcal": 42, "protein": 3.4, "carbs": 5, "fat": 1, "fiber": 0 },
+    "doshaEffects": { "vata": -1, "pitta": -1, "kapha": 1 },
+    "season": [
+      { "ayurvedic": "Hemanta Ritu", "english": "Pre-Winter" },
+      { "ayurvedic": "Shishira Ritu", "english": "Winter" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f10",
+    "name": "Apple",
+    "nutrients": { "kcal": 52, "protein": 0.3, "carbs": 14, "fat": 0.2, "fiber": 2.4 },
+    "doshaEffects": { "vata": -1, "pitta": -1, "kapha": 0 },
+    "season": [
+      { "ayurvedic": "Sharad Ritu", "english": "Autumn" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f11",
+    "name": "Banana",
+    "nutrients": { "kcal": 89, "protein": 1.1, "carbs": 23, "fat": 0.3, "fiber": 2.6 },
+    "doshaEffects": { "vata": -1, "pitta": 1, "kapha": 1 },
+    "season": [
+      { "ayurvedic": "Hemanta Ritu", "english": "Pre-Winter" }
+    ],
+    "flags": { "diabetes_unfriendly": true, "high_sodium": false }
+  },
+  {
+    "id": "f12",
+    "name": "Papaya",
+    "nutrients": { "kcal": 43, "protein": 0.5, "carbs": 11, "fat": 0.3, "fiber": 1.7 },
+    "doshaEffects": { "vata": -1, "pitta": -1, "kapha": 0 },
+    "season": [
+      { "ayurvedic": "Sharad Ritu", "english": "Autumn" },
+      { "ayurvedic": "Grishma Ritu", "english": "Summer" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f13",
+    "name": "Turmeric",
+    "nutrients": { "kcal": 354, "protein": 7.8, "carbs": 65, "fat": 10, "fiber": 21 },
+    "doshaEffects": { "vata": -1, "pitta": -1, "kapha": -1 },
+    "season": [
+      { "ayurvedic": "All Ritus", "english": "All Seasons" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f14",
+    "name": "Ghee",
+    "nutrients": { "kcal": 900, "protein": 0, "carbs": 0, "fat": 100, "fiber": 0 },
+    "doshaEffects": { "vata": -1, "pitta": 1, "kapha": 1 },
+    "season": [
+      { "ayurvedic": "Shishira Ritu", "english": "Winter" },
+      { "ayurvedic": "Hemanta Ritu", "english": "Pre-Winter" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f15",
+    "name": "Honey",
+    "nutrients": { "kcal": 304, "protein": 0.3, "carbs": 82, "fat": 0, "fiber": 0.2 },
+    "doshaEffects": { "vata": 0, "pitta": 0, "kapha": -1 },
+    "season": [
+      { "ayurvedic": "All Ritus", "english": "All Seasons" }
+    ],
+    "flags": { "diabetes_unfriendly": true, "high_sodium": false }
+  },
+  {
+    "id": "f16",
+    "name": "Cucumber",
+    "nutrients": { "kcal": 16, "protein": 0.7, "carbs": 3.6, "fat": 0.1, "fiber": 0.5 },
+    "doshaEffects": { "vata": 0, "pitta": -1, "kapha": -1 },
+    "season": [
+      { "ayurvedic": "Grishma Ritu", "english": "Summer" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f17",
+    "name": "Black Gram (Urad Dal)",
+    "nutrients": { "kcal": 341, "protein": 25, "carbs": 59, "fat": 1.6, "fiber": 18 },
+    "doshaEffects": { "vata": 1, "pitta": 0, "kapha": 1 },
+    "season": [
+      { "ayurvedic": "Hemanta Ritu", "english": "Pre-Winter" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f18",
+    "name": "Coconut Water",
+    "nutrients": { "kcal": 19, "protein": 0.7, "carbs": 3.7, "fat": 0.2, "fiber": 0 },
+    "doshaEffects": { "vata": -1, "pitta": -1, "kapha": 0 },
+    "season": [
+      { "ayurvedic": "Grishma Ritu", "english": "Summer" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f19",
+    "name": "Onion",
+    "nutrients": { "kcal": 40, "protein": 1.1, "carbs": 9, "fat": 0.1, "fiber": 1.7 },
+    "doshaEffects": { "vata": 0, "pitta": -1, "kapha": -1 },
+    "season": [
+      { "ayurvedic": "Varsha Ritu", "english": "Monsoon" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  },
+  {
+    "id": "f20",
+    "name": "Garlic",
+    "nutrients": { "kcal": 149, "protein": 6.4, "carbs": 33, "fat": 0.5, "fiber": 2.1 },
+    "doshaEffects": { "vata": 0, "pitta": -1, "kapha": -1 },
+    "season": [
+      { "ayurvedic": "All Ritus", "english": "All Seasons" }
+    ],
+    "flags": { "diabetes_unfriendly": false, "high_sodium": false }
+  }
+]
